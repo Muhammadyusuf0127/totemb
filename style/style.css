@@ -171,6 +171,7 @@ label{
         margin-top: 40px ;
         gap: 10px;
 }
+
 .one__title{
     font-family: var(--m400);
 font-size: 30px;
@@ -192,6 +193,7 @@ text-align: center;
     top: 15px;
     right: 20px;
 }
+
 .one__title{
     display: flex;
     flex-direction: column;
